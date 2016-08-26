@@ -5,7 +5,7 @@ body,
 }
 
 .cover {
-    background: url('content/images/Montreal-Black-And-White-Widescreen-Wallpaper.jpg') top left no-repeat;
+    background: url('../images/Montreal-Black-And-White-Widescreen-Wallpaper.jpg') top left no-repeat;
     background-size: cover;
     display: table;
     width: 100%;
@@ -78,7 +78,7 @@ section {
 }
 
 #portfolio {
-    background: url('content/images/modern_gray_background.jpg');
+    background: url('../images/modern_gray_background.jpg');
     background-size: cover;
     color: white;
     text-align: center;
