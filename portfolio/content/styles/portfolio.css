@@ -87,12 +87,21 @@ section {
 footer {
     background: #222;
     color: white;
-    text-align: center;
     padding: 20px;
     font-family: Georgia, Times, serif;
 }
 
-.submitButton {}
+footer ul.connect li {
+    display: inline;
+}
+
+footer ul.connect li i {
+    font-size: 14px;
+}
+
+footer ul.connect li i:hover {
+    font-size: 24px;
+}
 
 
 /* Media query to fix the padding and font on mobile screens */
