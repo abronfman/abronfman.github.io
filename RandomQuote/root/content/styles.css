@@ -1,0 +1,53 @@
+html,
+body,
+.cover {
+    height: 100%;
+}
+
+.cover {
+    max-height: 50%;
+    margin: 150px 0 150px 0;
+    text-align: center;
+}
+
+.quoteContent {
+    border: none;
+}
+
+.quoteContentBorder {
+    border: 1px solid #eee;
+}
+
+.quoteWrapper {
+    max-width: 50%;
+    max-height: 75%;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.quoteShadow {
+    -webkit-box-shadow: -10px 10px 15px 5px #888888;
+    -moz-box-shadow: -10px 10px 15px 5px #888888;
+    box-shadow: -10px 10px 15px 5px #888888;
+}
+
+#btnGetQuote {
+    margin-top: 20px;
+    float: right;
+}
+
+#tweetWrapper {
+    margin-top: 30px;
+    float: left;
+}
+
+nav.navbar-inverse {
+    background: rgba(0, 0, 0, 0.7);
+    border: none;
+}
+
+.contentWrapper {
+    text-align: center;
+    display: inline-block;
+}
